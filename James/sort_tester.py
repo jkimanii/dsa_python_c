@@ -2,9 +2,9 @@ import random
 
 arr = random.sample(range(100), 7)
 # arr = [76, 84, 40, 27, 25, 19, 93]
-# print(f"Unsorted list: ", arr)
-# print()
-# count = 1
+print(f"Unsorted list: ", arr)
+print()
+count = 1
 
 # def bubble_sort(arr, count):
 #     for i in range(len(arr) - 1):        
